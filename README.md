@@ -8,7 +8,7 @@
 代码示例
 
 ```
-	self.la = UILabel
+    self.la = UILabel
     .xmhNewAndSuperView(self.view)
     .xmhTextAndTextColorAndFont(@"234567", UIColor.redColor, [UIFont systemFontOfSize:14])
     .xmhTextAlignment(NSTextAlignmentCenter)
